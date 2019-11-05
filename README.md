@@ -28,6 +28,9 @@ ___
 ### Display all users
 Return json data with the following data: "id", "username", "email" and "password".
 
+##### Example:
+Hej hej
+
 ### Display single user
 Skriv
 
