@@ -4,8 +4,8 @@
 ## Documentation
 * [Usage](#Usage)
 	- [Connect to API](#connect-to-api)
-	- [Get all users](#get-all-users)
-	- [Get individual user](#get-individual-user)
+		- [Get all users](#get-all-users)
+		- [Get single user](#get-single-user)
  
 ## Usage
 ### Connect to API
