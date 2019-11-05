@@ -31,6 +31,8 @@ Returns json data from all users with the following data: "id", "username", "ema
 None
 ##### Example:
 `GET http://localhost/php-crud-api/entrypoints.php`
+##### Response:
+> All users in json format or json formatted error code.
 
 ### Display single user
 Returns json data from a single user with the following data: "id", "username", "email" and "password".
@@ -38,6 +40,8 @@ Returns json data from a single user with the following data: "id", "username", 
 {"id":"value"}
 ##### Example:
 `GET http://localhost/php-crud-api/entrypoints.php?id=5`
+##### Response:
+> Single user in json format or json formatted error code.
 ___
 
 ## POST methods
