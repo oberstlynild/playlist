@@ -4,16 +4,21 @@
 ## Documentation
 * [Usage](#Usage)
 	- [Connect to API](#connect-to-api)
+	- [GET methods](#get-methods)
 		- [Get all users](#get-all-users)
 		- [Get single user](#get-single-user)
+	- [POST methods](#post-methods)
+	
  
 ## Usage
 ### Connect to API
 Copy this entrypoint URL
 > http://localhost/php-crud-api/entrypoints.php
 
-### Get all users
+### GET methods
+
+#### Get all users
 Method: GET
 
-### Get single user
+#### Get single user
 Skriv
