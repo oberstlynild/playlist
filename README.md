@@ -26,14 +26,18 @@ ___
 ## GET methods
 > These are the functions available for GET requests.
 ### Display all users
-Return json data with the following data: "id", "username", "email" and "password".
-
+Returns json data from all users with the following data: "id", "username", "email" and "password".
+##### Required parameters:
+None
 ##### Example:
-Hej hej
-
-### Display single user
 Skriv
 
+### Display single user
+Returns json data from a single user with the following data: "id", "username", "email" and "password".
+##### Required parameters:
+{"id":"value"}
+##### Example:
+> `GET http://localhost/php-crud-api/entrypoints.php?id=5`
 ___
 
 ## POST methods
