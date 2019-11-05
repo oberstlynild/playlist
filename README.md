@@ -19,7 +19,7 @@
 
 ### Connect to the API
 Copy this entrypoint URL
-> http://localhost/php-crud-api/entrypoints.php
+> `http://localhost/php-crud-api/entrypoints.php`
 
 If you're not experienced in connecting to an API you can use 3rd party programs like [postman](https://www.getpostman.com/) to pass the parameters to the server.
 
