@@ -5,9 +5,10 @@
 * [Usage](#Usage)
 	- [Connect to the API](#connect-to-the-api)
 	- [GET methods](#get-methods)
-		- [Get all users](#get-all-users)
-		- [Get single user](#get-single-user)
+		- [GET all users](#get-all-users)
+		- [GET single user](#get-single-user)
 	- [POST methods](#post-methods)
+		- [POST new user](#post-new-user)
 	
  
 ## Usage
