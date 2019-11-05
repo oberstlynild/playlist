@@ -37,7 +37,7 @@ All users in json format or json formatted error code.
 ### Display single user
 Returns json data from a single user with the following data: "id", "username", "email" and "password".
 ##### Required parameters:
-{"id":"value"}
+{"id":"value"} \
 Value must be an integer.
 ##### Example:
 `GET http://localhost/php-crud-api/entrypoints.php?id=5`
