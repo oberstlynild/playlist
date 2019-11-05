@@ -25,6 +25,8 @@ If you're not experienced in connecting to an API you can use 3rd party programs
 
 More information about connecting to an API with postman can be found [here](https://www.youtube.com/watch?v=t5n07Ybz7yI&t=31s).
 
+___
+
 ### GET methods
 > These are the functions available for GET requests.
 #### Display all users
@@ -32,15 +34,21 @@ Skriv
 #### Display single user
 Skriv
 
+___
+
 ### POST methods
 > These are the functions available for POST requests.
 #### Create new user
 Skriv
 
+___
+
 ### PUT methods
 > These are the functions available for PUT requests.
 #### Update existing user
 Skriv
+
+___
 
 ### DELETE methods
 > These are the functions available for DELETE requests.
