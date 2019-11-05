@@ -30,7 +30,7 @@ Returns json data from all users with the following data: "id", "username", "ema
 ##### Required parameters:
 None
 ##### Example:
-Skriv
+`GET http://localhost/php-crud-api/entrypoints.php`
 
 ### Display single user
 Returns json data from a single user with the following data: "id", "username", "email" and "password".
