@@ -17,7 +17,7 @@
 Entrypoint URL
 > `http://localhost/php-crud-api/entrypoints.php`
 
-If you don't know how to connect to an API you can use 3rd party programs like [postman](https://www.getpostman.com/) to establish the connecting and pass the required parameters to the server.
+If you don't know how to connect to an API you can use 3rd party programs like [postman](https://www.getpostman.com/) to establish the connection and pass the required parameters to the server.
 
 More information about connecting to an API with postman can be found [here](https://www.youtube.com/watch?v=t5n07Ybz7yI&t=31s).
 
