@@ -27,12 +27,12 @@ More information about connecting to an API with postman can be found [here](htt
 
 ___
 
-### GET methods
-> These are the functions available for GET requests.
-#### Display all users
-Skriv
-#### Display single user
-Skriv
+	### GET methods
+	> These are the functions available for GET requests.
+	#### Display all users
+	Skriv
+	#### Display single user
+	Skriv
 
 ___
 
