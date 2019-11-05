@@ -1,7 +1,7 @@
 # user-management REST-API
-API til user management
+API for user management
 
-## Indhold
+## Contents
 [USAGE](#USAGE)
 
 ### USAGE
