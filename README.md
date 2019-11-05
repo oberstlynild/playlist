@@ -17,11 +17,15 @@ Copy this entrypoint URL
 
 ### GET methods
 These are the functions available for GET requests.
-* [Get all users](#get-all-users)
-* [Get single user](#get-single-user)
 
-#### Get all users
+#### GET all users
 Skriv
 
-#### Get single user
+#### GET single user
+Skriv
+
+### POST methods
+These are the functions available for POST requests.
+
+#### POST new user
 Skriv
