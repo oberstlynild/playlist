@@ -4,4 +4,4 @@ API til user management
 ## Indhold
 [USAGE](#USAGE)
 
-### Usage
+### USAGE
