@@ -13,10 +13,7 @@
 * [DELETE methods](#delete-methods)
 	- [Delete existing user](#delete-existing-user)
 	
- 
-## Usage
-
-### Connect to the API
+## Connect to the API
 Entrypoint URL
 > `http://localhost/php-crud-api/entrypoints.php`
 
@@ -26,7 +23,7 @@ More information about connecting to an API with postman can be found [here](htt
 
 ___
 
-### GET methods
+## GET methods
 > These are the functions available for GET requests.
 ### Display all users
 **Result** \
@@ -37,21 +34,21 @@ Skriv
 
 ___
 
-### POST methods
+## POST methods
 > These are the functions available for POST requests.
 ### Create new user
 Skriv
 
 ___
 
-### PUT methods
+## PUT methods
 > These are the functions available for PUT requests.
 ### Update existing user
 Skriv
 
 ___
 
-### DELETE methods
+## DELETE methods
 > These are the functions available for DELETE requests.
 ### Delete existing user
 Skriv
