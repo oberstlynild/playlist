@@ -14,8 +14,7 @@
 	- [Delete existing user](#delete-existing-user)
 	
 ## Connect to the API
-Entrypoint URL
-`http://localhost/php-crud-api/entrypoints.php`
+Entrypoint URL: `http://localhost/php-crud-api/entrypoints.php`
 
 If you don't know how to connect to an API you can use 3rd party programs like [postman](https://www.getpostman.com/) to establish the connection and pass the required parameters to the server.
 
