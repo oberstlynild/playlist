@@ -3,14 +3,14 @@
 
 ## Documentation
 * [Connect to the API](#connect-to-the-api)
-* [GET methods](#get-methods)
+* [GET functions](#get-functions)
 	- [Display all users](#display-all-users)
 	- [Display single user](#display-single-user)
-* [POST methods](#post-methods)
+* [POST functions](#post-functions)
 	- [Create new user](#create-new-user)
-* [PUT methods](#put-methods)
+* [PUT functions](#put-functions)
 	- [Update existing user](#update-existing-user)
-* [DELETE methods](#delete-methods)
+* [DELETE functions](#delete-functions)
 	- [Delete existing user](#delete-existing-user)
 	
 ## Connect to the API
@@ -23,7 +23,7 @@ More information about connecting to an API with postman can be found [here](htt
 
 ___
 
-## GET methods
+## GET functions
 > These are the functions available for GET requests.
 ### Display all users
 Returns json data from all users with the following data: "id", "username", "email" and "password".
@@ -48,21 +48,21 @@ In case of failure: json formatted error code.
 
 ___
 
-## POST methods
+## POST functions
 > These are the functions available for POST requests.
 ### Create new user
 Skriv
 
 ___
 
-## PUT methods
+## PUT functions
 > These are the functions available for PUT requests.
 ### Update existing user
 Skriv
 
 ___
 
-## DELETE methods
+## DELETE functions
 > These are the functions available for DELETE requests.
 ### Delete existing user
 Skriv
