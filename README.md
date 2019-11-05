@@ -30,7 +30,9 @@ ___
 ### GET methods
 > These are the functions available for GET requests.
 #### Display all users
-Skriv
+**Result** \
+Return json data with the following data: "id", "username", "email" and "password".
+
 #### Display single user
 Skriv
 
