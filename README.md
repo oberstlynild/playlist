@@ -17,8 +17,8 @@ Copy this entrypoint URL
 
 ### GET methods
 These are the functions available for GET requests.
-	- [Get all users](#get-all-users)
-	- [Get single user](#get-single-user)
+* [Get all users](#get-all-users)
+* [Get single user](#get-single-user)
 
 #### Get all users
 Skriv
