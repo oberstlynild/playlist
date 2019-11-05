@@ -3,11 +3,13 @@
 
 ## Documentation
 * [Usage](#Usage)
+	- [Connect to API](#connect-to-api)
 	- [Get all users](#get-all-users)
 	- [Get individual user](#get-individual-user)
  
 ## Usage
-
+### Connect to API
+Entrypoint URL: http://localhost/php-crud-api/entrypoints.php
 
 ### Get all users
 Method: GET
