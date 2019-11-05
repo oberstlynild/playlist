@@ -37,7 +37,7 @@ Returns json data from a single user with the following data: "id", "username", 
 ##### Required parameters:
 {"id":"value"}
 ##### Example:
-> `GET http://localhost/php-crud-api/entrypoints.php?id=5`
+`GET http://localhost/php-crud-api/entrypoints.php?id=5`
 ___
 
 ## POST methods
