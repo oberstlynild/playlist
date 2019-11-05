@@ -2,17 +2,16 @@
 > API for user management
 
 ## Documentation
-* [Usage](#Usage)
-	- [Connect to the API](#connect-to-the-api)
-	- [GET methods](#get-methods)
-		- [Display all users](#display-all-users)
-		- [Display single user](#display-single-user)
-	- [POST methods](#post-methods)
-		- [Create new user](#create-new-user)
-	- [PUT methods](#put-methods)
-		- [Update existing user](#update-existing-user)
-	- [DELETE methods](#delete-methods)
-		- [Delete existing user](#delete-existing-user)
+* [Connect to the API](#connect-to-the-api)
+* [GET methods](#get-methods)
+	- [Display all users](#display-all-users)
+	- [Display single user](#display-single-user)
+* [POST methods](#post-methods)
+	- [Create new user](#create-new-user)
+* [PUT methods](#put-methods)
+	- [Update existing user](#update-existing-user)
+* [DELETE methods](#delete-methods)
+	- [Delete existing user](#delete-existing-user)
 	
  
 ## Usage
