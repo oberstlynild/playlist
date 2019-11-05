@@ -11,6 +11,8 @@
 		- [Create new user](#create-new-user)
 	- [PUT methods](#put-methods)
 		- [Update existing user](#update-existing-user)
+	- [DELETE methods](#delete-methods)
+		- [Delete existing user](#delete-existing-user)
 	
  
 ## Usage
@@ -34,4 +36,9 @@ Skriv
 ### PUT methods
 > These are the functions available for PUT requests.
 #### Update existing user
+Skriv
+
+### DELETE methods
+> These are the functions available for DELETE requests.
+#### Delete existing user
 Skriv
