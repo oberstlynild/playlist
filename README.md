@@ -5,28 +5,33 @@
 * [Usage](#Usage)
 	- [Connect to the API](#connect-to-the-api)
 	- [GET methods](#get-methods)
-		- [GET all users](#get-all-users)
-		- [GET single user](#get-single-user)
+		- [Display all users](#display-all-users)
+		- [Display single user](#display-single-user)
 	- [POST methods](#post-methods)
-		- [POST new user](#post-new-user)
+		- [Create new user](#create-new-user)
+	- [PUT methods](#put-methods)
+		- [Update existing user](#update-existing-user)
 	
  
 ## Usage
+
 ### Connect to the API
 Copy this entrypoint URL
 > http://localhost/php-crud-api/entrypoints.php
 
 ### GET methods
 > These are the functions available for GET requests.
-
-#### GET all users
+#### Display all users
 Skriv
-
-#### GET single user
+#### Display single user
 Skriv
 
 ### POST methods
 > These are the functions available for POST requests.
+#### Create new user
+Skriv
 
-#### POST new user
+### PUT methods
+> These are the functions available for PUT requests.
+#### Update existing user
 Skriv
