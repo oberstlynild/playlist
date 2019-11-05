@@ -21,9 +21,9 @@
 Copy this entrypoint URL
 > http://localhost/php-crud-api/entrypoints.php
 
-You can use 3rd party programs like [postman](https://www.getpostman.com/) to pass the parameters to the server, or you can do it direcly in the url.
+If you're not experienced in connecting to an API you can use 3rd party programs like [postman](https://www.getpostman.com/) to pass the parameters to the server.
 
-Example: 
+More information about connecting to an API with postman can be found [here](https://www.youtube.com/watch?v=t5n07Ybz7yI&t=31s).
 
 ### GET methods
 > These are the functions available for GET requests.
