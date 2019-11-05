@@ -16,9 +16,10 @@ Copy this entrypoint URL
 > http://localhost/php-crud-api/entrypoints.php
 
 ### GET methods
+These are the functions available for GET requests.
 
 #### Get all users
-Method: GET
+Skriv
 
 #### Get single user
 Skriv
