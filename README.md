@@ -25,12 +25,11 @@ ___
 
 ## GET functions
 > These are the functions available for GET requests.
+
 ### Display all users
 Returns json data from all users with the following data: "id", "username", "email" and "password".
 ##### Required parameters:
 None
-##### Example:
-`GET http://localhost/php-crud-api/entrypoints.php`
 ##### Response:
 All users in json format. \
 In case of failure: json formatted error code.
@@ -40,8 +39,6 @@ Returns json data from a single user with the following data: "id", "username", 
 ##### Required parameters:
 {"id":"value"} \
 *Value must be an integer.*
-##### Example:
-`GET http://localhost/php-crud-api/entrypoints.php?id=5`
 ##### Response:
 Single user in json format. \
 In case of failure: json formatted error code.
@@ -51,7 +48,8 @@ ___
 ## POST functions
 > These are the functions available for POST requests.
 ### Create new user
-Skriv
+Inserts a new user into the database and responds with either success or failure.
+
 
 ___
 
