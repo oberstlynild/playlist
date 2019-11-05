@@ -9,7 +9,7 @@
  
 ## Usage
 ### Connect to API
-Entrypoint URL: http://localhost/php-crud-api/entrypoints.php
+Copy this entrypoint URL: * * http://localhost/php-crud-api/entrypoints.php
 
 ### Get all users
 Method: GET
