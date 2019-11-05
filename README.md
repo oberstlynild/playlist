@@ -29,30 +29,30 @@ ___
 
 ### GET methods
 > These are the functions available for GET requests.
-#### Display all users
+### Display all users
 **Result** \
 Return json data with the following data: "id", "username", "email" and "password".
 
-#### Display single user
+### Display single user
 Skriv
 
 ___
 
 ### POST methods
 > These are the functions available for POST requests.
-#### Create new user
+### Create new user
 Skriv
 
 ___
 
 ### PUT methods
 > These are the functions available for PUT requests.
-#### Update existing user
+### Update existing user
 Skriv
 
 ___
 
 ### DELETE methods
 > These are the functions available for DELETE requests.
-#### Delete existing user
+### Delete existing user
 Skriv
